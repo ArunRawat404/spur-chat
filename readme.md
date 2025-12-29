@@ -2,7 +2,7 @@
 
 A full-stack AI-powered customer support chat application built as part of the Spur Founding Full-Stack Engineer take-home assignment.
 
-**Live Demo:** [https://spur-chat.vercel.app](https://spur-chat.vercel.app)
+**Live Demo:** [https://spur-chat-nine.vercel.app/](https://spur-chat-nine.vercel.app/)
 
 ## Features
 
