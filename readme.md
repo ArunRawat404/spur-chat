@@ -4,7 +4,9 @@ A full-stack AI-powered customer support chat application built as part of the S
 
 **Live Demo:** [https://spur-chat-nine.vercel.app/](https://spur-chat-nine.vercel.app/)
 
-## Features
+![App Screenshot](img/chat.png)
+
+## Featuresm
 
 - Real-time chat interface with AI-powered responses
 - Conversation persistence across page reloads
